@@ -13,4 +13,6 @@ A notes app focused on adding new ideas
 - [SvelteKit](https://kit.svelte.dev)
 - [Flowbite](https://flowbite-svelte.com)
 - [Tailwind](https://tailwindcss.com)
+- [XState](https://xstate.js.org)
 - [Vite PWA](https://vite-pwa-org.netlify.app)
+- [UUID](https://github.com/uuidjs/uuid)
