@@ -9,8 +9,8 @@ export default defineConfig({
 			manifest: {
 				short_name: 'Scratchpad',
 				name: 'Scratchpad',
-				start_url: '/',
-				scope: '/',
+				start_url: '/scratchpad',
+				scope: '/scratchpad',
 				display: 'standalone',
 				theme_color: '#ffffff',
 				background_color: '#ffffff',
