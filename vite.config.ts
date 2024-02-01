@@ -12,8 +12,8 @@ export default defineConfig({
 				start_url: '/scratchpad',
 				scope: '/scratchpad',
 				display: 'standalone',
-				theme_color: '#ffffff',
-				background_color: '#ffffff',
+				theme_color: '#334155',
+				background_color: '#334155',
 				icons: [
 					{
 						src: 'pwa-64x64.png',
