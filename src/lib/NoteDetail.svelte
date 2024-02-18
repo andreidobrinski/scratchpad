@@ -28,7 +28,7 @@
 	<Textarea
 		id="textarea-id"
 		placeholder="Add your note"
-		rows="10"
+		rows="18"
 		name="message"
 		aria-label="add your note"
 		wrappedClass="block w-full text-m border-0 px-0 bg-inherit dark:bg-inherit focus:outline-none focus:ring-0 resize-none"
