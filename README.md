@@ -2,6 +2,8 @@
 
 A notes app focused on adding new ideas
 
+[Demo](https://andreidobrinski.com/scratchpad/)
+
 ## Running locally
 
 1. Clone this repo
