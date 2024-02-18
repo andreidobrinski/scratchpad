@@ -16,3 +16,5 @@ A notes app focused on adding new ideas
 - [XState](https://xstate.js.org)
 - [Vite PWA](https://vite-pwa-org.netlify.app)
 - [UUID](https://github.com/uuidjs/uuid)
+
+![logo](./static/maskable-icon-512x512.png)
