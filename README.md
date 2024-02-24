@@ -2,7 +2,9 @@
 
 A notes app focused on adding new ideas. The service worker installs the app for full offline use. Intended for use as a mobile PWA.
 
-[Demo](https://andreidobrinski.com/scratchpad/)
+[🔗 Demo](https://andreidobrinski.com/scratchpad/)
+
+![demo gif](./scratchpad-demo.gif)
 
 ## Running locally
 
