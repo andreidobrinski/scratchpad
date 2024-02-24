@@ -1,4 +1,6 @@
 <script lang="ts">
+	import { fly } from 'svelte/transition';
+	import { quintOut } from 'svelte/easing';
 	import { GradientButton, Textarea } from 'flowbite-svelte';
 	import { addNote, editNote, deleteNote, type Note } from './noteStore';
 
@@ -24,7 +26,10 @@
 	}
 </script>
 
-<form on:submit|preventDefault={handleSubmit}>
+<form
+	on:submit|preventDefault={handleSubmit}
+	in:fly={{ duration: 300, x: 0, y: -80, opacity: 0.5, easing: quintOut }}
+>
 	<Textarea
 		id="textarea-id"
 		placeholder="Add your note"
