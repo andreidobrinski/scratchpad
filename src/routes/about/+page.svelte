@@ -3,6 +3,7 @@
 </script>
 
 <main>
+	<img src="pencil-icon.svg" alt="scratchpad logo" width="100px" height="100px" />
 	<h1>About Scratchpad</h1>
 
 	<h2>What is it?</h2>
